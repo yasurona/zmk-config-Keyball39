@@ -15,10 +15,10 @@ layers:
   - S
   - D
   - F
-  - G
+  - F
   - H
-  - J
   - K
+  - J
   - L
   - {t: ;, s: ':'}
   - Z
@@ -85,7 +85,7 @@ layers:
   - '@'
   - '#'
   - $
-  - '%'
+  - {t: '$$mdi:transfer$$', type: trans}
   - ^
   - '&'
   - '*'
@@ -108,7 +108,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - _
   - +
-  - {t: '$$mdi:transfer$$', type: trans}
+  - ':'
   - {t: '$$mdi:transfer$$', type: trans}
   - \
   - {t: '$$mdi:transfer$$', type: trans}
